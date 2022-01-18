@@ -1,6 +1,14 @@
 # UP_lab
 Repozytorium zawiera aplikacje i sprawozdania z laboratoriów z Urządzeń Peryferyjnych realizowanych w roku akademickim 2021/2022.
 
+## Spis treści
+* [Joystick](#joystick)
+* [Karta dźwiękowa](#karta-dźwiękowa)
+* [BLE](#ble)
+* [Akwizycja Sygnałów](#akwizycja-sygnałów)
+* [Silnik Krokowy](#silnik-krokowy)
+* [GPS](#gps) 
+
 ## Joystick
 Program został napisany w języku C#, realizuje podstawowe funkcje sterowania joystickiem takie jak:
 * odczytywanie  nazwy joysticka
@@ -20,7 +28,7 @@ Program został napisany w języku C#, jego celem było odtwarzanie i nagrywanie
 
 ## BLE
 
-## Akwizycja sygnałów
+## Akwizycja Sygnałów
 
 ## Silnik Krokowy
 
