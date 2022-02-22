@@ -1,6 +1,9 @@
 # UP_lab
 Repozytorium zawiera aplikacje i sprawozdania z laboratoriów z Urządzeń Peryferyjnych realizowanych w roku akademickim 2021/2022.
 
+## Pozostałe języki
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/danielglazer26/UP_lab)
+
 ## Spis treści
 * [Joystick](#joystick)
 * [Karta dźwiękowa](#karta-dźwiękowa)
